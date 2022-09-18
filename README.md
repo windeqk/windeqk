@@ -11,7 +11,7 @@
 ![Windeqk GitHub stats](https://github-readme-stats.vercel.app/api/?username=windeqk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits)
 
 # POCO X3 NFC
-My daily driver. I'm maintaning [ProjectStreak](https://github.com/ProjectStreak) on it.
+My daily driver.
 
 ## My repos for this device
 

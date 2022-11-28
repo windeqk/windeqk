@@ -13,8 +13,18 @@
 # Btw, I have a blog
 **[windeqk.github.io](http://windeqk.github.io)**
 
-# Contact
+# If you would like to contact me...
+<details>
+  <summary>
+     Links <b>EXPAND ME</b>
+  </summary>
+
+## Mail
+- [windeqk@gmail.com](mailto:windeqk@gmail.com)
+
+## Socials
 - [Telegram](https://t.me/windeqk)
 - [Facebook](https://www.facebook.com/jacek.frytkownica.92)
 
-**[CLICK ME](https://youtu.be/dQw4w9WgXcQ)**
+**[CLICK ME PLOX](https://youtu.be/dQw4w9WgXcQ)**
+</details>

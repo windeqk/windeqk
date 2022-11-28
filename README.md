@@ -3,24 +3,15 @@
 
 # Something about me
 - I use sm6150 btw
-- Another buildbot maintaning popular device
+- Another buildbot ~~maintaning popular device~~
 - I'm learning C++, Java and getting out of Vim
 - `JMTeam`
 
 ## My stats ^-^
-![Windeqk GitHub stats](https://github-readme-stats.vercel.app/api/?username=windeqk&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits)
+![Windeqk GitHub stats](https://github-readme-stats.vercel.app/api/?username=windeqk&show_icons=true&title_color=fff&icon_color=8b949e&text_color=58a6ff&bg_color=0d1117&include_all_commits)
 
-# POCO X3 NFC
-My daily driver.
-
-## My repos for this device
-
-<a href="https://github.com/windeqk/device_xiaomi_surya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=windeqk&repo=device_xiaomi_surya&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/windeqk/vendor_xiaomi_surya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=windeqk&repo=vendor_xiaomi_surya&text_color=9f9f9f&bg_color=151515" />
-</a>
+# Btw, I have a blog
+**[windeqk.github.io](http://windeqk.github.io)**
 
 # Contact
 - [Telegram](https://t.me/windeqk)
